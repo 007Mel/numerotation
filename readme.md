@@ -1,4 +1,4 @@
-# git remote add origin https://github.com/007Mel/numerotation.git
+# Numérotation de fichiers par date de modification
 
 Un petit script Python qui **renomme les fichiers d'un dossier en les numérotant**, dans l'ordre de leur date de modification (du plus ancien au plus récent).
 
